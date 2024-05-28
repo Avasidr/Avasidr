@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular, React Native.**
 
-- 👨‍💻 All of my projects are available at [In progress](In progress)
+- 👨‍💻 All of my projects are available at [In progress]
 
 - 💬 Ask me about **React, JavaScript**
 
