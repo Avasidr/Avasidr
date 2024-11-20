@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Noa</h1>
 <h3 align="center">A passionate full stack software developer from Spain</h3>
 
-- 🔭 I’m currently working on [NRC](https://github.com/Grokhen/NRC-Final)
+- 🔭 I’m currently working on [MindDen]([https://github.com/Grokhen/NRC-Final](https://www.mindden.com/))
 
 - 🌱 I’m currently learning **Angular, React Native.**
 
 - 👨‍💻 All of my projects are available at [In progress]
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, Vue, JavaScript**
 
 - 📫 How to reach me **noafr94@gmail.com**
 
