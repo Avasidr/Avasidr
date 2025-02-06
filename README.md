@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MindDen]([https://github.com/Grokhen/NRC-Final](https://www.mindden.com/))
 
-- 🌱 I’m currently learning **Angular, React Native.**
+- 🌱 I’m currently learning **Angular, React Native and ThreeJs.**
 
 - 👨‍💻 All of my projects are available at [In progress]
 
